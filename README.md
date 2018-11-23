@@ -1,3 +1,26 @@
+<h1> face recognition system and login authentication </h1>
+<h3>Used Technologies :</h3>
+ <pre>
+ React
+ Node
+ API 
+ CSS
+ PostgreSQL
+ </pre>
+<br/>
+<br/>
+
+![alt text](https://github.com/ArvanBishwas/FaceRecognitionBrain/blob/master/src/image/image.PNG)
+
+
+
+<br/>
+<br/>
+
+
+
+
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
